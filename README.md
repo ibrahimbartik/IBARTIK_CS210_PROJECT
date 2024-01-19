@@ -1,1 +1,3 @@
-# IBARTIK_CS210_PROJECT
+# İbrahim Bartık CS210: Introduction to Data Science Project
+
+
